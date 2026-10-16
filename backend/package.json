@@ -1,0 +1,24 @@
+{
+  "name": "apna_github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnehaNagure17/Apna_Github.git"
+  },
+  "keywords": [],
+  "author": "Sneha Nagure",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SnehaNagure17/Apna_Github/issues"
+  },
+  "homepage": "https://github.com/SnehaNagure17/Apna_Github#readme",
+  "dependencies": {
+    "yargs": "^18.2.0"
+  }
+}
