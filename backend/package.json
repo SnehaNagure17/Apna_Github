@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/SnehaNagure17/Apna_Github#readme",
   "dependencies": {
+    "uuid": "^14.0.3",
     "yargs": "^18.2.0"
   }
 }
